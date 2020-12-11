@@ -6,7 +6,7 @@
     "directory": "packages/standard-template"
   },
   "name": "cbe-standard-template",
-  "description": "The standard template for Create Browser Extension.",
+  "description": "The standard template for extension-create.",
   "version": "0.0.0",
   "author": {
     "name": "Cezar Augusto",
@@ -18,7 +18,7 @@
     "template.json"
   ],
   "keywords": [
-    "create-browser-extension",
+    "extension-create",
     "browser-extension",
     "web-extension",
     "template"

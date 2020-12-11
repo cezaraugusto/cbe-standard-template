@@ -1,6 +1,6 @@
-# Create Browser Extension Standard Template
+# extension-create Standard Template
 
-> Standard template for [create-browser-extension](https://github.com/cezaraugusto/create-browser-extension).
+> Standard template for [extension-create](https://github.com/cezaraugusto/extension-create).
 
 Directory Structure:
 
